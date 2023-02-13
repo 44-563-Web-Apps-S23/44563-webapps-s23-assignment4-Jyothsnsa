@@ -34,7 +34,7 @@
 tr:nth-child(even) {
     background-color: #f2f2f2;
   }
-  .OHANO :hover{
+  .OHANO:hover{
     border: 1px solid;
     text-shadow: 2px 2px #ff0000;
   }
