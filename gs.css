@@ -21,3 +21,15 @@
     font-family: Arial, Helvetica, sans-serif ;
     color:goldenrod;
   }
+table.table
+{
+    color:darkmagenta;
+    text-align: center; 
+    padding: 60px;
+    margin:20px;
+    border: 3px solid #f2f2f213;
+    
+}
+tr:nth-child(even) {
+    background-color: #f2f2f2;
+  }
