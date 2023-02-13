@@ -1,5 +1,23 @@
 .speech {
-    font-size: 40px;
+    font-size: 20px;
     font-family: Arial, Helvetica, sans-serif ;
-    color:Tomato;
+    color:black;
+  }
+  .directions{
+    font-size: 15px;
+    font-family: 'Times New Roman', Times, serif;
+    color:black;
+  }
+  .directions:hover{
+    background-color: palevioletred;
+  }
+  .OHANO{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif ;
+    color:blue;
+  }
+  .ZAMA{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif ;
+    color:goldenrod;
   }
