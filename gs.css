@@ -29,7 +29,6 @@
     margin:20px;
    border-collapse: collapse;
    border-spacing: 0;
-   width: 100%;
    border: 10px solid #ddd;
 }
 tr:nth-child(even) {
